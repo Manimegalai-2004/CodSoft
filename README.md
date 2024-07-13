@@ -1,1 +1,3 @@
 # Codsoft
+As part of the Codsoft internship program, I have developed a series of Python tasks designed to showcase fundamental programming skills and practical problem-solving abilities. These projects include a Password Generator, a Simple Calculator, and a Contact Management System. Each project addresses a specific user need, from generating secure passwords to performing basic arithmetic operations and managing personal or professional contacts. Through these projects, I have demonstrated proficiency in Python programming, user input handling, and creating user-friendly interfaces. These applications highlight my ability to design and implement effective solutions to common tasks, emphasizing functionality, usability, and reliability.
+
